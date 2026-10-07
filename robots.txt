@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fawwgroup.github.io/faww-group/sitemap.xml
