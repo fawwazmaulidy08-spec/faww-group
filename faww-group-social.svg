@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b2348"/><stop offset="1" stop-color="#153d70"/></linearGradient></defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <circle cx="1040" cy="115" r="235" fill="#62d7b3" opacity=".1"/><circle cx="1000" cy="520" r="180" fill="#ffb45c" opacity=".1"/>
-  <g transform="translate(100 106)" fill="none" stroke="#62d7b3" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"><path d="m70 5 65 38v76l-65 38-65-38V43L70 5Z"/><path d="M94 51H59a13 13 0 0 0-13 13v54m0-36h35"/></g>
-  <text x="100" y="350" fill="#fff" font-family="Arial,sans-serif" font-size="75" font-weight="700">Faww Group</text>
-  <text x="100" y="420" fill="#dce8f8" font-family="Arial,sans-serif" font-size="34">Servis Komputer, Laptop, dan Printer</text>
-  <text x="100" y="470" fill="#dce8f8" font-family="Arial,sans-serif" font-size="34">Cepat, Jujur, dan Terjangkau · Semarang Kota</text>
-</svg>
